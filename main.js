@@ -1,4 +1,4 @@
-// Task 1
+// Task 1//
 let events = [];
 
 const eventName = document.querySelector("#eventName");
@@ -13,5 +13,7 @@ buttonAdd.addEventListener("click", (e) => {
         e.preventDefault;
         addEvent();
 })
+
+
 
 
