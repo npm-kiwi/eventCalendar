@@ -1,5 +1,5 @@
 let renderEvents = () => {
-  let eventsHTML = events.Map((event) => {
+  let eventsHTML = events.map((event) => {
     `
     <div class= "event">
     <div class= "days"> 
