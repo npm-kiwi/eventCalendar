@@ -3,7 +3,7 @@ let events = [];
 
 const eventName = document.querySelector("#eventName");
 const eventDate = document.querySelector("#eventDate");
-const bAdd = document.querySelector("#bAdd");
+const buttonAdd = document.querySelector("#bAdd");
 
 document.querySelector("#tasksContainer").innerHTML = eventsHTML.join("");
 
